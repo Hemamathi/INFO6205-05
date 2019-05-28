@@ -1,5 +1,7 @@
 # INFO6205-05
-GENETIC ALGORITHM IMPLEMENTATION-KNAPSACK PROBLEM
+GENETIC ALGORITHM IMPLEMENTATION-KNAPSACK PROBLEM                                                              
+#Technology Stack Used:                                                                                            
+Operating System:Linux(Ubuntu) Programming Language:JAVA with unit test cases in JUnit
 
 
 TEAM MEMBERS:
